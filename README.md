@@ -9,8 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string> </string>
-https://archive.org/download/signed-vidiremove/signedVidiremove%20.ipa</dict>
+<string> </string>https://up-ipa.xyz/uploads/Unc0ver-k_39d16.ipa</dict>
 <dict>
 <key>kind</key>
 <string>display-image</string>
@@ -34,7 +33,7 @@ https://archive.org/download/signed-vidiremove/signedVidiremove%20.ipa</dict>
 <string>software</string>
 <key>title</key>
 <string>
-Unc0ver 6.2.0
+Unc0ver 6.1.0
 11.0 - 14.3IOS
  
 By: Nazir HD . 
